@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Versión de evaluación) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="215.9mm" height="279.4mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 21590 27940"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#004E80;stroke-width:111.87;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#004E80;fill-opacity:0.000000}
+    .fil2 {fill:#93CEF4;fill-opacity:0.501961}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M-0 27398.13l21489.39 0 0 -26653.06 -21489.39 0 0 26653.06z"/>
+    </clipPath>
+     <clipPath id="id1">
+      <path d="M-0 745.07l21489.39 0 0 26653.06 -21489.39 0 0 -26653.06z"/>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M-0 27398.13l21489.39 0 0 -26653.06 -21489.39 0 0 26653.06z"/>
+     </clipPath>
+    <clipPath id="id3">
+     <path d="M-0 27398.13l21489.39 0 0 -26653.06 -21489.39 0 0 26653.06z"/>
+    </clipPath>
+     <clipPath id="id4">
+     </clipPath>
+     <clipPath id="id5">
+      <path d="M-0 27398.13l21489.39 0 0 -26653.06 -21489.39 0 0 26653.06z"/>
+     </clipPath>
+   <clipPath id="id6">
+    <rect x="8926.52" y="1257.88" width="12447.33" height="13495.04"/>
+   </clipPath>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3024461979744">
+   <g style="clip-path:url(#id0)">
+    <g>
+    </g>
+    <g style="clip-path:url(#id1)">
+     <image x="-0" y="745.07" width="21489.39" height="26653.06" xlink:href="kong-bg_Images\kong-bg_ImgID1.png"/>
+    </g>
+    <g style="clip-path:url(#id2)">
+    </g>
+   </g>
+   <g style="clip-path:url(#id3)">
+    <g>
+     <path class="fil0" d="M23987.83 -16698.86c0,-9006.17 -3620.62,-16307.13 -8086.89,-16307.13 -4466.27,0 -8086.89,7300.96 -8086.89,16307.13 0,9006.18 3620.62,16307.14 8086.89,16307.14 4466.27,0 8086.89,-7300.96 8086.89,-16307.14z"/>
+    </g>
+    <g style="clip-path:url(#id4)">
+     <image x="7818.07" y="-30621.34" width="13668.33" height="30229.66" xlink:href="kong-bg_Images\kong-bg_ImgID2.png"/>
+    </g>
+    <g style="clip-path:url(#id5)">
+     <ellipse class="fil1 str0" cx="15900.94" cy="-16698.86" rx="8086.89" ry="16307.14"/>
+     <polygon class="fil2" points="-0,27398.13 21574.3,27398.13 21574.3,-30659.49 -0,-30659.49 "/>
+    </g>
+   </g>
+   <polygon class="fil1" points="-0,27398.13 21489.39,27398.13 21489.39,745.07 -0,745.07 "/>
+  </g>
+  <g style="clip-path:url(#id6)">
+   <image x="8926.52" y="1257.89" width="12447.32" height="13495.03" xlink:href="kong-bg_Images\kong-bg_ImgID3.png"/>
+  </g>
+ </g>
+</svg>
